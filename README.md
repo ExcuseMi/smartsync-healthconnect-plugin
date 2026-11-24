@@ -1,3 +1,5 @@
+> **Moved:** this plugin now lives in [ExcuseMi/smartsync-plugins](https://github.com/ExcuseMi/smartsync-plugins) (module `healthconnect/`), with its history. This repository is archived.
+
 # Health Connect plugin for G-Shock Smart Sync
 
 A plugin for [G-Shock Smart Sync](https://github.com/ExcuseMi/CasioGShockSmartSync) that writes the health data of
